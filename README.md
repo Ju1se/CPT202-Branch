@@ -16,10 +16,8 @@ Project A: Daily Reading Tracker 是一个基于 Web 的应用程序，旨在帮
 Spring Boot
 Spring Data JPA
 Spring Security
-前端：
-Thymeleaf（用于服务端渲染）
 数据库：
 可配置（开发环境默认使用 H2 内存数据库，生产环境可使用 MySQL）
 测试：
-JUnit 5
+JUnit单元测试5
 Spring Boot Test
